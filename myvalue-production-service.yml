@@ -1,5 +1,5 @@
 server:
   port: 8082
-some
+some:
   value: Mi valor en produccion
 
